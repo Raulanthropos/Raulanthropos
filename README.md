@@ -8,5 +8,5 @@ In 2020, as the pandemic took hold and I found myself without work in the humani
 
 * 🌍  I'm based in Chios, Greece - willing to relocate.
 * ✉️  You can contact me at [ipsichias@gmail.com](mailto:ipsichias@gmail.com)
-* You can also find me on LinkedIn: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ioannis-psychias/)
+* You can also find me on LinkedIn: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ioannis-psychias/){:target="_blank"}
 
