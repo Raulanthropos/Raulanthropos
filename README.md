@@ -3,7 +3,7 @@
 
 * 🌍  I'm based in Athens, Greece.
 * ✉️  You can contact me at [ipsichias@gmail.com](mailto:ipsichias@gmail.com)
-* ✉️  Check my portfolio at [Portfolio](https://react-portfolio-raulanthropos.vercel.app/)
+* ✉️  [Portfolio](https://react-portfolio-raulanthropos.vercel.app/)
 
 
 
