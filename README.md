@@ -1,6 +1,5 @@
-## Hi! My name is Ioannis!
-I'm a **Fullstack Developer**, building responsive, data-driven web applications with **React**, **TypeScript**, **GraphQL**, and **Node.js**.  
-I have hands-on experience in **frontend development**, **API design**, and **WordPress integration**, with a growing focus on **AWS Cloud networking and architecture** (VPCs, subnets, routing, deployment automation).
+Hi, I’m Ioannis, a Fullstack TypeScript Developer building production web applications with React, Node.js, GraphQL, and PostgreSQL.
+I work across frontend architecture, API development, third-party integrations, and cloud deployment, with hands-on experience in AWS, Docker, CI/CD, and custom WordPress development.
 
 * 🌍  I'm based in Athens, Greece.
 * ✉️  You can contact me at [ipsichias@gmail.com](mailto:ipsichias@gmail.com)
